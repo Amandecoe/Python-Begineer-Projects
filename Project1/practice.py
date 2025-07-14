@@ -1,7 +1,7 @@
 MAX_LINES = 3
 MAX_BET = 100   #This are constants which can be used anywhere in the program.
 MIN_BET=1
-
+import random 
 
 
 def deposit(): # Function to deposit money into an account
